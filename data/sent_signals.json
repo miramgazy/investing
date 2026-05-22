@@ -1,0 +1,10 @@
+{
+  "volatility_SECTORS_2026-05-22_3c44333a9022": {
+    "expires_at": 1780091152.916273,
+    "sent_at": "2026-05-22T21:45:52.916261",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +3.5%, Energy -1.8%"
+  }
+}
