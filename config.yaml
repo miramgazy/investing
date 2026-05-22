@@ -1,0 +1,39 @@
+# Заглушка: копия config.example.yaml без чувствительных значений.
+# Отредактируй перед запуском. Секреты не сюда — в .env / GitHub Secrets.
+
+tickers: []
+
+monitoring:
+  insider_trades: true
+  analyst_ratings: true
+  price_movements: true
+  news: true
+  earnings: true
+  macro: true
+  volatility: true
+
+thresholds:
+  price_movement_percent: 3.0
+  news_importance_min: 7
+  insider_min_value_usd: 1000000
+  vix_alert_level: 25.0
+  earnings_days_before: 3
+
+schedule:
+  monitor_interval: "0 13-20 * * 1-5"
+  daily_summary: "0 6 * * 1-5"
+  weekly_report: "0 17 * * 0"
+
+reports:
+  language: ru
+  timezone: Europe/Moscow
+  currency: USD
+  benchmark: SPY
+
+claude:
+  model: claude-sonnet-4-20250514
+  insights_style: professional
+
+pdf:
+  theme: dark
+  accent_color: "#00d4ff"

@@ -1,0 +1,14 @@
+Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers LLC
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 1, 2026 - January 31, 2026"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Account,U1234567
+Positions,Header,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value
+Positions,Data,STK,USD,AAPL,100,1,150.25,15025.00,180.50,18050.00
+Positions,Data,STK,USD,TSLA,50,1,250.00,12500.00,200.00,10000.00
+Positions,Data,STK,USD,NVDA,30,1,400.00,12000.00,500.00,15000.00
+Positions,Data,STK,USD,MSFT,40,1,300.00,12000.00,350.00,14000.00
+Positions,Data,STK,USD,GOOGL,20,1,2500.00,50000.00,2800.00,56000.00
+Positions,Data,FX,EUR,EUR.USD,1000,1,1.08,1080.00,1.09,1090.00
+Positions,Data,STK,USD,CLOSED,0,1,0.00,0.00,0.00,0.00

@@ -1,0 +1,63 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Virtualenv ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- IDE / editors ---
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# --- Tests / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.ruff_cache/
+.mypy_cache/
+
+# --- Secrets / local env ---
+.env
+.env.*
+!.env.example
+
+# --- Project-specific ---
+
+# CSV-выгрузки IBKR — содержат реальные позиции пользователя.
+# Сами файлы не коммитим, только .gitkeep, чтобы папка существовала.
+portfolio/*.csv
+!portfolio/.gitkeep
+!portfolio/README.md
+
+# Логи только локальные.
+logs/
+*.log
+
+# ВАЖНО: data/*.json НЕ игнорируем — они нужны для:
+#   - sent_signals.json: дедупликации между запусками
+#   - cik_cache.json:    кеш SEC EDGAR
+#   - news_cache.json:   кеш оценок Claude (экономия токенов)
+# Архив PDF-отчётов тоже остаётся в git (data/reports_archive/*.pdf).
+
+# --- Файлы только для продавца, НЕ попадают в публичный репозиторий ---
+# Технические задания и внутренние материалы.
+0?_*.md
+CLAUDE_CODE_PROMPTS.md
+CONTEXT.md
+HOW_TO_SELL.md
+QA_*.md
+claude-portfolio-watchdog-tz.zip
