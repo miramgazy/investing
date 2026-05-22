@@ -1,7 +1,7 @@
 # Заглушка: копия config.example.yaml без чувствительных значений.
 # Отредактируй перед запуском. Секреты не сюда — в .env / GitHub Secrets.
 
-tickers: []
+tickers: [BILL.US,FFSPC1.0329.AIX.KZ,FRHC.US,GOOGL.US,GTLB_IPO.US,HSBK.KZ,JEPI.US,KASXF.KZ,KSPI.US,KZTCB3.KZ,LI.US,MFOKB25.KZ,MFRFB13.KZ,NFLX.US,PFE.US,PINS.US,PLUG.US,PRIME.FF.FUNDS,QQQI.US,RIVN_IPO.US,TQQQ.US,VNRX.US,VNRX_IPO.US,XYZ.US]
 
 monitoring:
   insider_trades: true
