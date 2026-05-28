@@ -62,5 +62,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +3.9%, Energy -4.4%"
+  },
+  "volatility_SECTORS_2026-05-28_68cc57c73583": {
+    "expires_at": 1780592118.8925583,
+    "sent_at": "2026-05-28T16:55:18.892552",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +4.9%, Energy -3.5%"
   }
 }
