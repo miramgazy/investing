@@ -7,13 +7,13 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) через 7 дн."
   },
-  "volatility_SECTORS_2026-05-25_8f8d3f513572": {
-    "expires_at": 1780329140.9346287,
-    "sent_at": "2026-05-25T15:52:20.934618",
+  "macro_MARKET_2026-06-01_358133ae1769": {
+    "expires_at": 1780943958.8002286,
+    "sent_at": "2026-06-01T18:39:18.800218",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +3.5%, Energy -1.8%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) через 4 дн."
   },
   "volatility_SECTORS_2026-05-26_6ef50803ff47": {
     "expires_at": 1780437037.796866,
@@ -110,5 +110,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +5.7%, Energy -5.4%"
+  },
+  "volatility_SECTORS_2026-06-01_ca714bc731a0": {
+    "expires_at": 1780943958.9794126,
+    "sent_at": "2026-06-01T18:39:18.979402",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +5.8%, Utilities -4.5%"
   }
 }
