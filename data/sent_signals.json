@@ -31,13 +31,29 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) через 3 дн."
   },
-  "volatility_SECTORS_2026-05-26_6ef50803ff47": {
-    "expires_at": 1780437037.796866,
-    "sent_at": "2026-05-26T21:50:37.796856",
+  "macro_MARKET_2026-06-03_6b187b81928c": {
+    "expires_at": 1781114470.1923554,
+    "sent_at": "2026-06-03T18:01:10.192345",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +6.9%, Energy -5.6%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) через 2 дн."
+  },
+  "macro_MARKET_2026-06-03_8d1bcb208991": {
+    "expires_at": 1781114470.4562619,
+    "sent_at": "2026-06-03T18:01:10.456253",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 7 дн."
+  },
+  "macro_MARKET_2026-06-03_8ee01b65364a": {
+    "expires_at": 1781114470.3197255,
+    "sent_at": "2026-06-03T18:01:10.319718",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release через 6 дн."
   },
   "volatility_SECTORS_2026-05-27_41096b57f81d": {
     "expires_at": 1780514787.892299,
@@ -54,14 +70,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +4.1%, Energy -4.7%"
-  },
-  "volatility_SECTORS_2026-05-27_ae5ad9c21553": {
-    "expires_at": 1780504923.3008678,
-    "sent_at": "2026-05-27T16:42:03.300858",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +3.9%, Energy -4.4%"
   },
   "volatility_SECTORS_2026-05-28_68cc57c73583": {
     "expires_at": 1780592118.8925583,
@@ -142,5 +150,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +6.8%, Consumer Staples -3.2%"
+  },
+  "volatility_SECTORS_2026-06-03_87d20cc39c2d": {
+    "expires_at": 1781114470.5884783,
+    "sent_at": "2026-06-03T18:01:10.588471",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +5.1%, Consumer Discretionary -4.5%"
   }
 }
