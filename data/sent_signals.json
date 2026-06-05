@@ -95,14 +95,6 @@
     "ticker": "MARKET",
     "title": "CPI Release через 4 дн."
   },
-  "volatility_SECTORS_2026-05-29_745b4f4f9597": {
-    "expires_at": 1780687968.955819,
-    "sent_at": "2026-05-29T19:32:48.955808",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +5.8%, Energy -5.4%"
-  },
   "volatility_SECTORS_2026-05-29_8086ad0492ed": {
     "expires_at": 1780696386.299545,
     "sent_at": "2026-05-29T21:53:06.299536",
@@ -199,6 +191,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +4.5%, Technology -5.4%"
   },
+  "volatility_SECTORS_2026-06-05_d8c9b5ea5553": {
+    "expires_at": 1781294372.8577995,
+    "sent_at": "2026-06-05T19:59:32.857788",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +3.7%, Technology -7.7%"
+  },
   "volatility_^VIX_2026-06-05_012c20a21482": {
     "expires_at": 1781287005.94491,
     "sent_at": "2026-06-05T17:56:45.944899",
@@ -206,5 +206,13 @@
     "signal_type": "volatility",
     "ticker": "^VIX",
     "title": "VIX = 18.0 (порог 25)"
+  },
+  "volatility_^VIX_2026-06-05_bba9da261a7d": {
+    "expires_at": 1781294372.5448945,
+    "sent_at": "2026-06-05T19:59:32.544885",
+    "severity": "medium",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 20.6 (порог 25)"
   }
 }
