@@ -103,14 +103,6 @@
     "ticker": "MARKET",
     "title": "PPI Release завтра"
   },
-  "volatility_SECTORS_2026-06-02_6b514d64524e": {
-    "expires_at": 1781038262.3947704,
-    "sent_at": "2026-06-02T20:51:02.394762",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +7.5%, Consumer Discretionary -3.3%"
-  },
   "volatility_SECTORS_2026-06-03_0d73fe5b0d5d": {
     "expires_at": 1781128246.7581658,
     "sent_at": "2026-06-03T21:50:46.758153",
@@ -206,6 +198,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +4.3%, Technology -7.2%"
+  },
+  "volatility_SECTORS_2026-06-09_4c79f2f8e3c1": {
+    "expires_at": 1781643534.0543473,
+    "sent_at": "2026-06-09T20:58:54.054338",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +4.8%, Technology -7.9%"
   },
   "volatility_SECTORS_2026-06-09_b030a40d04a0": {
     "expires_at": 1781625387.4809964,
