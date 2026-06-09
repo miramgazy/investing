@@ -103,13 +103,21 @@
     "ticker": "MARKET",
     "title": "CPI Release завтра"
   },
-  "volatility_SECTORS_2026-06-01_e2e48766208e": {
-    "expires_at": 1780956695.53723,
-    "sent_at": "2026-06-01T22:11:35.537220",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +5.7%, Utilities -4.9%"
+  "macro_MARKET_2026-06-09_5b5e3bd70b32": {
+    "expires_at": 1781625387.1281552,
+    "sent_at": "2026-06-09T15:56:27.128149",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release сегодня"
+  },
+  "macro_MARKET_2026-06-09_e9847a4efc9b": {
+    "expires_at": 1781625387.306264,
+    "sent_at": "2026-06-09T15:56:27.306257",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release завтра"
   },
   "volatility_SECTORS_2026-06-02_6b514d64524e": {
     "expires_at": 1781038262.3947704,
@@ -222,6 +230,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +4.3%, Technology -7.2%"
+  },
+  "volatility_SECTORS_2026-06-09_b030a40d04a0": {
+    "expires_at": 1781625387.4809964,
+    "sent_at": "2026-06-09T15:56:27.480991",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +4.2%, Technology -9.3%"
   },
   "volatility_^VIX_2026-06-05_012c20a21482": {
     "expires_at": 1781287005.94491,
