@@ -1,20 +1,4 @@
 {
-  "macro_MARKET_2026-06-08_8cc8f6d9018e": {
-    "expires_at": 1781542213.5846357,
-    "sent_at": "2026-06-08T16:50:13.584627",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 2 дн."
-  },
-  "macro_MARKET_2026-06-08_97d9924431c0": {
-    "expires_at": 1781542213.3948162,
-    "sent_at": "2026-06-08T16:50:13.394807",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release завтра"
-  },
   "macro_MARKET_2026-06-09_5b5e3bd70b32": {
     "expires_at": 1781625387.1281552,
     "sent_at": "2026-06-09T15:56:27.128149",
@@ -63,6 +47,14 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 5 дн."
   },
+  "macro_MARKET_2026-06-15_0e03624a29f6": {
+    "expires_at": 1782151161.693492,
+    "sent_at": "2026-06-15T17:59:21.693481",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision через 2 дн."
+  },
   "volatility_SECTORS_2026-06-08_0ade2c183727": {
     "expires_at": 1781560261.1065335,
     "sent_at": "2026-06-08T21:51:01.106495",
@@ -70,14 +62,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +4.3%, Technology -7.1%"
-  },
-  "volatility_SECTORS_2026-06-08_527a22a6a625": {
-    "expires_at": 1781542213.7696567,
-    "sent_at": "2026-06-08T16:50:13.769647",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +4.4%, Technology -6.3%"
   },
   "volatility_SECTORS_2026-06-08_b2240a6528c1": {
     "expires_at": 1781551346.239824,
@@ -182,5 +166,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Materials +4.4%, Energy -1.3%"
+  },
+  "volatility_SECTORS_2026-06-15_4e00db0a8c6b": {
+    "expires_at": 1782151161.8090878,
+    "sent_at": "2026-06-15T17:59:21.809077",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +5.9%, Energy -3.0%"
   }
 }
