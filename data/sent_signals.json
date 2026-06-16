@@ -1,20 +1,4 @@
 {
-  "macro_MARKET_2026-06-09_5b5e3bd70b32": {
-    "expires_at": 1781625387.1281552,
-    "sent_at": "2026-06-09T15:56:27.128149",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release сегодня"
-  },
-  "macro_MARKET_2026-06-09_e9847a4efc9b": {
-    "expires_at": 1781625387.306264,
-    "sent_at": "2026-06-09T15:56:27.306257",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release завтра"
-  },
   "macro_MARKET_2026-06-10_781075a16049": {
     "expires_at": 1781714191.6841989,
     "sent_at": "2026-06-10T16:36:31.684191",
@@ -55,13 +39,13 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 2 дн."
   },
-  "volatility_SECTORS_2026-06-08_0ade2c183727": {
-    "expires_at": 1781560261.1065335,
-    "sent_at": "2026-06-08T21:51:01.106495",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +4.3%, Technology -7.1%"
+  "macro_MARKET_2026-06-16_dd238167de19": {
+    "expires_at": 1782237934.1454613,
+    "sent_at": "2026-06-16T18:05:34.145449",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision завтра"
   },
   "volatility_SECTORS_2026-06-09_4c79f2f8e3c1": {
     "expires_at": 1781643534.0543473,
@@ -70,14 +54,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +4.8%, Technology -7.9%"
-  },
-  "volatility_SECTORS_2026-06-09_b030a40d04a0": {
-    "expires_at": 1781625387.4809964,
-    "sent_at": "2026-06-09T15:56:27.480991",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +4.2%, Technology -9.3%"
   },
   "volatility_SECTORS_2026-06-09_d0db66292501": {
     "expires_at": 1781633283.8745716,
@@ -174,5 +150,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +6.1%, Energy -3.2%"
+  },
+  "volatility_SECTORS_2026-06-16_1a7de7654da0": {
+    "expires_at": 1782237934.2738407,
+    "sent_at": "2026-06-16T18:05:34.273830",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +6.7%, Energy -5.5%"
   }
 }
