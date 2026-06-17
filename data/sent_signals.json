@@ -1,20 +1,4 @@
 {
-  "macro_MARKET_2026-06-10_781075a16049": {
-    "expires_at": 1781714191.6841989,
-    "sent_at": "2026-06-10T16:36:31.684191",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release сегодня"
-  },
-  "macro_MARKET_2026-06-10_d79b2b9069c7": {
-    "expires_at": 1781714191.8539135,
-    "sent_at": "2026-06-10T16:36:31.853909",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision через 7 дн."
-  },
   "macro_MARKET_2026-06-11_3f2a0fced70c": {
     "expires_at": 1781801773.5057595,
     "sent_at": "2026-06-11T16:56:13.505748",
@@ -47,13 +31,13 @@
     "ticker": "MARKET",
     "title": "FOMC Decision завтра"
   },
-  "volatility_SECTORS_2026-06-10_0bdab720070d": {
-    "expires_at": 1781714192.029429,
-    "sent_at": "2026-06-10T16:36:32.029424",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Staples +4.1%, Technology -7.7%"
+  "macro_MARKET_2026-06-17_a67875907056": {
+    "expires_at": 1782319176.1648703,
+    "sent_at": "2026-06-17T16:39:36.164858",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision сегодня"
   },
   "volatility_SECTORS_2026-06-10_24013c23d615": {
     "expires_at": 1781733835.0723348,
@@ -150,5 +134,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Materials +6.3%, Energy -5.0%"
+  },
+  "volatility_SECTORS_2026-06-17_2680ff9a81de": {
+    "expires_at": 1782319176.2954447,
+    "sent_at": "2026-06-17T16:39:36.295434",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Industrials +4.0%, Energy -3.6%"
   }
 }
