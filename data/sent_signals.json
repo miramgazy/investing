@@ -23,14 +23,6 @@
     "ticker": "MARKET",
     "title": "FOMC Decision сегодня"
   },
-  "volatility_SECTORS_2026-06-12_5223d5600972": {
-    "expires_at": 1781895974.6723528,
-    "sent_at": "2026-06-12T19:06:14.672342",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +4.7%, Energy -1.1%"
-  },
   "volatility_SECTORS_2026-06-12_81db61bb2172": {
     "expires_at": 1781905591.268096,
     "sent_at": "2026-06-12T21:46:31.268086",
