@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-06-15_0e03624a29f6": {
-    "expires_at": 1782151161.693492,
-    "sent_at": "2026-06-15T17:59:21.693481",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision через 2 дн."
-  },
   "macro_MARKET_2026-06-16_dd238167de19": {
     "expires_at": 1782237934.1454613,
     "sent_at": "2026-06-16T18:05:34.145449",
@@ -22,14 +14,6 @@
     "signal_type": "macro",
     "ticker": "MARKET",
     "title": "FOMC Decision сегодня"
-  },
-  "volatility_SECTORS_2026-06-15_4e00db0a8c6b": {
-    "expires_at": 1782151161.8090878,
-    "sent_at": "2026-06-15T17:59:21.809077",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +5.9%, Energy -3.0%"
   },
   "volatility_SECTORS_2026-06-15_70621a5c7411": {
     "expires_at": 1782161783.458209,
@@ -118,6 +102,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Financials +2.7%, Energy -4.3%"
+  },
+  "volatility_SECTORS_2026-06-22_5300a3228647": {
+    "expires_at": 1782766169.9639928,
+    "sent_at": "2026-06-22T20:49:29.963981",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Industrials +1.7%, Communications -4.8%"
   },
   "volatility_SECTORS_2026-06-22_98333afc484b": {
     "expires_at": 1782754863.9271207,
