@@ -111,6 +111,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Industrials +1.9%, Communications -5.1%"
   },
+  "volatility_SECTORS_2026-06-23_0743edf60e91": {
+    "expires_at": 1782842210.9624615,
+    "sent_at": "2026-06-23T17:56:50.962451",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Utilities +0.1%, Communications -4.3%"
+  },
   "volatility_SECTORS_2026-06-23_b416fbeff318": {
     "expires_at": 1782834561.0355084,
     "sent_at": "2026-06-23T15:49:21.035499",
