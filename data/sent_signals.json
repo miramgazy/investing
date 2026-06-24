@@ -95,6 +95,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +1.6%, Energy -2.4%"
   },
+  "volatility_SECTORS_2026-06-24_580ec4e186d6": {
+    "expires_at": 1782941013.6067266,
+    "sent_at": "2026-06-24T21:23:33.606716",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Utilities +2.4%, Communications -2.4%"
+  },
   "volatility_SECTORS_2026-06-24_73870511bb62": {
     "expires_at": 1782920042.3760028,
     "sent_at": "2026-06-24T15:34:02.375994",
