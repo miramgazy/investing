@@ -15,14 +15,6 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +3.6%, Energy -6.6%"
   },
-  "volatility_SECTORS_2026-06-19_d831e65e8493": {
-    "expires_at": 1782489628.6054218,
-    "sent_at": "2026-06-19T16:00:28.605414",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Financials +2.7%, Energy -4.3%"
-  },
   "volatility_SECTORS_2026-06-22_5300a3228647": {
     "expires_at": 1782766169.9639928,
     "sent_at": "2026-06-22T20:49:29.963981",
@@ -126,5 +118,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +6.6%, Technology -5.5%"
+  },
+  "volatility_SECTORS_2026-06-26_a3456a9b4289": {
+    "expires_at": 1783100973.3046353,
+    "sent_at": "2026-06-26T17:49:33.304624",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +6.2%, Technology -5.1%"
   }
 }
