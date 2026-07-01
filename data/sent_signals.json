@@ -47,14 +47,6 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +2.4%, Communications -2.4%"
   },
-  "volatility_SECTORS_2026-06-24_85cd20aefd70": {
-    "expires_at": 1782935227.7895913,
-    "sent_at": "2026-06-24T19:47:07.789581",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Utilities +2.2%, Communications -2.4%"
-  },
   "volatility_SECTORS_2026-06-25_321e2afa4bc5": {
     "expires_at": 1783025884.4740155,
     "sent_at": "2026-06-25T20:58:04.474006",
@@ -182,5 +174,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Discretionary +4.8%, Utilities -2.3%"
+  },
+  "volatility_SECTORS_2026-07-01_bece3f5c1ab0": {
+    "expires_at": 1783540950.7772486,
+    "sent_at": "2026-07-01T20:02:30.777238",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Discretionary +4.2%, Utilities -2.4%"
   }
 }
