@@ -55,6 +55,22 @@
     "ticker": "MARKET",
     "title": "PPI Release через 6 дн."
   },
+  "macro_MARKET_2026-07-03_0138e15889cf": {
+    "expires_at": 1783696358.7821689,
+    "sent_at": "2026-07-03T15:12:38.782158",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) сегодня"
+  },
+  "macro_MARKET_2026-07-03_d79a4d22fa9b": {
+    "expires_at": 1783696358.9045806,
+    "sent_at": "2026-07-03T15:12:38.904569",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 5 дн."
+  },
   "volatility_SECTORS_2026-06-26_1afdfadced29": {
     "expires_at": 1783108163.9113646,
     "sent_at": "2026-06-26T19:49:23.911355",
@@ -198,5 +214,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Financials +3.3%, Utilities -1.8%"
+  },
+  "volatility_SECTORS_2026-07-03_6641900316bc": {
+    "expires_at": 1783696359.0241475,
+    "sent_at": "2026-07-03T15:12:39.024135",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Financials +3.8%, Real Estate -1.2%"
   }
 }
