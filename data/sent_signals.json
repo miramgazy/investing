@@ -63,14 +63,6 @@
     "ticker": "MARKET",
     "title": "PPI Release через 5 дн."
   },
-  "volatility_SECTORS_2026-06-26_1afdfadced29": {
-    "expires_at": 1783108163.9113646,
-    "sent_at": "2026-06-26T19:49:23.911355",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +6.4%, Technology -5.1%"
-  },
   "volatility_SECTORS_2026-06-26_48626439d662": {
     "expires_at": 1783113616.416928,
     "sent_at": "2026-06-26T21:20:16.416920",
