@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-06-29_7ff9c8e65c3f": {
-    "expires_at": 1783355954.3844614,
-    "sent_at": "2026-06-29T16:39:14.384451",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) через 4 дн."
-  },
   "macro_MARKET_2026-06-30_feb1e55e8c94": {
     "expires_at": 1783438137.5196302,
     "sent_at": "2026-06-30T15:28:57.519618",
@@ -86,14 +78,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Healthcare +5.6%, Energy -1.1%"
-  },
-  "volatility_SECTORS_2026-06-29_c355458dc53e": {
-    "expires_at": 1783355954.579975,
-    "sent_at": "2026-06-29T16:39:14.579965",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +5.4%, Materials -1.1%"
   },
   "volatility_SECTORS_2026-06-30_08f92b68a082": {
     "expires_at": 1783446912.7856472,
@@ -190,6 +174,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Financials +3.8%, Real Estate -1.2%"
+  },
+  "volatility_SECTORS_2026-07-06_29292a66dd38": {
+    "expires_at": 1783968928.3048768,
+    "sent_at": "2026-07-06T18:55:28.304864",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Financials +4.5%, Real Estate -1.4%"
   },
   "volatility_SECTORS_2026-07-06_593612c98313": {
     "expires_at": 1783959718.8249135,
