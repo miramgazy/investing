@@ -71,14 +71,6 @@
     "ticker": "MARKET",
     "title": "PPI Release сегодня"
   },
-  "volatility_SECTORS_2026-07-01_916a4bb25546": {
-    "expires_at": 1783533433.878835,
-    "sent_at": "2026-07-01T17:57:13.878824",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +4.7%, Utilities -2.4%"
-  },
   "volatility_SECTORS_2026-07-01_bece3f5c1ab0": {
     "expires_at": 1783540950.7772486,
     "sent_at": "2026-07-01T20:02:30.777238",
@@ -190,5 +182,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +5.8%, Technology -4.3%"
+  },
+  "volatility_SECTORS_2026-07-08_f56b77c6b0b8": {
+    "expires_at": 1784143573.4466064,
+    "sent_at": "2026-07-08T19:26:13.446594",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +4.7%, Consumer Discretionary -2.5%"
   }
 }
