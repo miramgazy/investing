@@ -1,20 +1,4 @@
 {
-  "macro_MARKET_2026-07-02_aa7ad497a40b": {
-    "expires_at": 1783610197.1932192,
-    "sent_at": "2026-07-02T15:16:37.193209",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) завтра"
-  },
-  "macro_MARKET_2026-07-02_e90ad12d1f4b": {
-    "expires_at": 1783610197.366792,
-    "sent_at": "2026-07-02T15:16:37.366785",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 6 дн."
-  },
   "macro_MARKET_2026-07-03_0138e15889cf": {
     "expires_at": 1783696358.7821689,
     "sent_at": "2026-07-03T15:12:38.782158",
@@ -71,6 +55,14 @@
     "ticker": "MARKET",
     "title": "PPI Release сегодня"
   },
+  "macro_MARKET_2026-07-09_6332dae6e50b": {
+    "expires_at": 1784217403.7117126,
+    "sent_at": "2026-07-09T15:56:43.711701",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release через 5 дн."
+  },
   "volatility_SECTORS_2026-07-02_4151fec87377": {
     "expires_at": 1783631306.9764931,
     "sent_at": "2026-07-02T21:08:26.976481",
@@ -94,14 +86,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Financials +3.2%, Utilities -1.6%"
-  },
-  "volatility_SECTORS_2026-07-02_cddc9610257f": {
-    "expires_at": 1783610197.5314348,
-    "sent_at": "2026-07-02T15:16:37.531426",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Financials +3.3%, Utilities -1.8%"
   },
   "volatility_SECTORS_2026-07-03_6641900316bc": {
     "expires_at": 1783696359.0241475,
@@ -190,5 +174,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +4.7%, Consumer Discretionary -2.5%"
+  },
+  "volatility_SECTORS_2026-07-09_d97b8c96bdb2": {
+    "expires_at": 1784217403.891803,
+    "sent_at": "2026-07-09T15:56:43.891791",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.2%, Materials -3.2%"
   }
 }
