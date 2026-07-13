@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-07-06_f025e117a8d7": {
-    "expires_at": 1783959718.658082,
-    "sent_at": "2026-07-06T16:21:58.658072",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 2 дн."
-  },
   "macro_MARKET_2026-07-07_ba5f9d8ddc7c": {
     "expires_at": 1784043849.2264988,
     "sent_at": "2026-07-07T15:44:09.226488",
@@ -78,14 +70,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Financials +4.5%, Utilities -1.6%"
-  },
-  "volatility_SECTORS_2026-07-06_593612c98313": {
-    "expires_at": 1783959718.8249135,
-    "sent_at": "2026-07-06T16:21:58.824903",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Financials +4.1%, Utilities -1.9%"
   },
   "volatility_SECTORS_2026-07-07_2db0b46635a6": {
     "expires_at": 1784052024.8051965,
@@ -214,5 +198,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +3.1%, Healthcare -1.9%"
+  },
+  "volatility_SECTORS_2026-07-13_7471a4f67d05": {
+    "expires_at": 1784570135.5934935,
+    "sent_at": "2026-07-13T17:55:35.593483",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +4.1%, Healthcare -1.9%"
   }
 }
