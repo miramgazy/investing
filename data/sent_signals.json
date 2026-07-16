@@ -31,14 +31,6 @@
     "ticker": "MARKET",
     "title": "CPI Release сегодня"
   },
-  "volatility_SECTORS_2026-07-08_40967c9fc272": {
-    "expires_at": 1784149693.133388,
-    "sent_at": "2026-07-08T21:08:13.133377",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +5.3%, Consumer Discretionary -2.4%"
-  },
   "volatility_SECTORS_2026-07-09_48fa416e1560": {
     "expires_at": 1784224761.8729424,
     "sent_at": "2026-07-09T17:59:21.872933",
@@ -198,5 +190,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Communications +2.9%, Technology -3.5%"
+  },
+  "volatility_SECTORS_2026-07-16_ca797c855604": {
+    "expires_at": 1784818978.6161964,
+    "sent_at": "2026-07-16T15:02:58.616189",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.5%, Technology -4.1%"
   }
 }
