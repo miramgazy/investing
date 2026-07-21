@@ -1,20 +1,4 @@
 {
-  "macro_MARKET_2026-07-14_b9c04f65724a": {
-    "expires_at": 1784645567.1926851,
-    "sent_at": "2026-07-14T14:52:47.192672",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release сегодня"
-  },
-  "volatility_SECTORS_2026-07-13_98a467995f18": {
-    "expires_at": 1784581051.8612905,
-    "sent_at": "2026-07-13T20:57:31.861280",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +3.8%, Healthcare -1.8%"
-  },
   "volatility_SECTORS_2026-07-14_033901da4e34": {
     "expires_at": 1784664779.4586332,
     "sent_at": "2026-07-14T20:12:59.458622",
@@ -30,14 +14,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Financials +2.4%, Healthcare -2.5%"
-  },
-  "volatility_SECTORS_2026-07-14_5c1c2b13e561": {
-    "expires_at": 1784645567.3564785,
-    "sent_at": "2026-07-14T14:52:47.356469",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Financials +3.0%, Healthcare -2.5%"
   },
   "volatility_SECTORS_2026-07-14_6720e3607abb": {
     "expires_at": 1784657122.135323,
@@ -166,5 +142,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +2.4%, Technology -3.5%"
+  },
+  "volatility_SECTORS_2026-07-21_9e203ed2ed4b": {
+    "expires_at": 1785251079.9193509,
+    "sent_at": "2026-07-21T15:04:39.919341",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.0%, Communications -2.9%"
   }
 }
