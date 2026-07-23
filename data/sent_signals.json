@@ -15,14 +15,6 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 6 дн."
   },
-  "volatility_SECTORS_2026-07-16_149ecadabc42": {
-    "expires_at": 1784827008.6132529,
-    "sent_at": "2026-07-16T17:16:48.613243",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +3.4%, Technology -4.6%"
-  },
   "volatility_SECTORS_2026-07-16_18a1dfcc7a78": {
     "expires_at": 1784833915.3662534,
     "sent_at": "2026-07-16T19:11:55.366241",
@@ -159,6 +151,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +3.9%, Consumer Discretionary -2.6%"
   },
+  "volatility_SECTORS_2026-07-23_0a57a72de6a7": {
+    "expires_at": 1785432239.7503097,
+    "sent_at": "2026-07-23T17:23:59.750303",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.4%, Consumer Discretionary -5.7%"
+  },
   "volatility_SECTORS_2026-07-23_a85b1f58c25a": {
     "expires_at": 1785424178.7666214,
     "sent_at": "2026-07-23T15:09:38.766613",
@@ -166,6 +166,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +4.3%, Consumer Discretionary -5.7%"
+  },
+  "volatility_^VIX_2026-07-23_3eeefb2ed718": {
+    "expires_at": 1785432239.5375807,
+    "sent_at": "2026-07-23T17:23:59.537572",
+    "severity": "medium",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 19.5 (порог 25)"
   },
   "volatility_^VIX_2026-07-23_b4f0e07a336a": {
     "expires_at": 1785424178.5766041,
