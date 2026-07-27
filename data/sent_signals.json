@@ -31,14 +31,6 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 2 дн."
   },
-  "volatility_SECTORS_2026-07-20_11d1e10733e4": {
-    "expires_at": 1785183710.255095,
-    "sent_at": "2026-07-20T20:21:50.255086",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +1.8%, Technology -4.3%"
-  },
   "volatility_SECTORS_2026-07-21_39cad9703f7d": {
     "expires_at": 1785273043.5665212,
     "sent_at": "2026-07-21T21:10:43.566508",
@@ -174,6 +166,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +2.4%, Technology -4.5%"
+  },
+  "volatility_SECTORS_2026-07-27_855b418aa2eb": {
+    "expires_at": 1785791464.9207351,
+    "sent_at": "2026-07-27T21:11:04.920722",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Materials +2.6%, Technology -3.6%"
   },
   "volatility_SECTORS_2026-07-27_9713ae13c89a": {
     "expires_at": 1785778991.3908677,
