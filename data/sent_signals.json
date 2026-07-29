@@ -39,14 +39,6 @@
     "ticker": "MARKET",
     "title": "FOMC Decision сегодня"
   },
-  "volatility_SECTORS_2026-07-22_7cef62cc163b": {
-    "expires_at": 1785352825.313605,
-    "sent_at": "2026-07-22T19:20:25.313593",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +4.0%, Communications -3.0%"
-  },
   "volatility_SECTORS_2026-07-22_90df944867e4": {
     "expires_at": 1785359336.7219377,
     "sent_at": "2026-07-22T21:08:56.721927",
@@ -198,6 +190,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Staples +4.9%, Technology -4.3%"
+  },
+  "volatility_SECTORS_2026-07-29_98a700e2b69a": {
+    "expires_at": 1785963402.562241,
+    "sent_at": "2026-07-29T20:56:42.562229",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Staples +5.0%, Technology -6.7%"
   },
   "volatility_SECTORS_2026-07-29_dc2d342051ea": {
     "expires_at": 1785950142.2288833,
