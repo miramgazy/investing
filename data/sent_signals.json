@@ -175,6 +175,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Discretionary +5.2%, Healthcare -3.1%"
   },
+  "volatility_SECTORS_2026-08-03_cb078814aae1": {
+    "expires_at": 1786395803.816923,
+    "sent_at": "2026-08-03T21:03:23.816913",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Discretionary +5.1%, Healthcare -3.0%"
+  },
   "volatility_SECTORS_2026-08-03_e1894f019bea": {
     "expires_at": 1786384295.4559102,
     "sent_at": "2026-08-03T17:51:35.455898",
