@@ -55,6 +55,30 @@
     "ticker": "MARKET",
     "title": "CPI Release через 6 дн."
   },
+  "macro_MARKET_2026-08-06_4a8c4e2305e6": {
+    "expires_at": 1786634044.6410506,
+    "sent_at": "2026-08-06T15:14:04.641040",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) завтра"
+  },
+  "macro_MARKET_2026-08-06_9e6ab22f8937": {
+    "expires_at": 1786634044.7911677,
+    "sent_at": "2026-08-06T15:14:04.791157",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release через 5 дн."
+  },
+  "macro_MARKET_2026-08-06_dabd3a14f5ad": {
+    "expires_at": 1786634044.922394,
+    "sent_at": "2026-08-06T15:14:04.922384",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 6 дн."
+  },
   "volatility_SECTORS_2026-07-30_3212bb2c3816": {
     "expires_at": 1786050629.8803344,
     "sent_at": "2026-07-30T21:10:29.880327",
@@ -78,14 +102,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Discretionary +3.0%, Utilities -3.4%"
-  },
-  "volatility_SECTORS_2026-07-30_c568316401d2": {
-    "expires_at": 1786029056.3260071,
-    "sent_at": "2026-07-30T15:10:56.325995",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +2.1%, Utilities -3.9%"
   },
   "volatility_SECTORS_2026-07-31_0c6f0ec61319": {
     "expires_at": 1786116015.668291,
@@ -214,6 +230,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +6.3%, Utilities -2.6%"
+  },
+  "volatility_SECTORS_2026-08-06_7da5eb4baadd": {
+    "expires_at": 1786634045.064108,
+    "sent_at": "2026-08-06T15:14:05.064098",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +6.5%, Energy -2.8%"
   },
   "volatility_^VIX_2026-07-30_b021995511a4": {
     "expires_at": 1786050629.6328666,
