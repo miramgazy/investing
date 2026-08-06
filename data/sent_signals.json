@@ -79,30 +79,6 @@
     "ticker": "MARKET",
     "title": "PPI Release через 6 дн."
   },
-  "volatility_SECTORS_2026-07-30_3212bb2c3816": {
-    "expires_at": 1786050629.8803344,
-    "sent_at": "2026-07-30T21:10:29.880327",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +2.7%, Utilities -3.5%"
-  },
-  "volatility_SECTORS_2026-07-30_7ace475cd059": {
-    "expires_at": 1786037254.2090347,
-    "sent_at": "2026-07-30T17:27:34.209024",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +2.6%, Utilities -3.7%"
-  },
-  "volatility_SECTORS_2026-07-30_7c50c1090294": {
-    "expires_at": 1786044413.1347866,
-    "sent_at": "2026-07-30T19:26:53.134772",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +3.0%, Utilities -3.4%"
-  },
   "volatility_SECTORS_2026-07-31_0c6f0ec61319": {
     "expires_at": 1786116015.668291,
     "sent_at": "2026-07-31T15:20:15.668280",
@@ -239,20 +215,12 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +6.5%, Energy -2.8%"
   },
-  "volatility_^VIX_2026-07-30_b021995511a4": {
-    "expires_at": 1786050629.6328666,
-    "sent_at": "2026-07-30T21:10:29.632856",
-    "severity": "medium",
+  "volatility_SECTORS_2026-08-06_e97dc935ffc0": {
+    "expires_at": 1786665578.6306016,
+    "sent_at": "2026-08-06T23:59:38.630592",
+    "severity": "low",
     "signal_type": "volatility",
-    "ticker": "^VIX",
-    "title": "VIX = 17.1 (порог 25)"
-  },
-  "volatility_^VIX_2026-07-30_e9b613e3600e": {
-    "expires_at": 1786044413.019043,
-    "sent_at": "2026-07-30T19:26:53.019028",
-    "severity": "medium",
-    "signal_type": "volatility",
-    "ticker": "^VIX",
-    "title": "VIX = 17.5 (порог 25)"
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +5.7%, Energy -2.3%"
   }
 }
