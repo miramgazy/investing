@@ -103,13 +103,13 @@
     "ticker": "MARKET",
     "title": "PPI Release завтра"
   },
-  "volatility_SECTORS_2026-08-04_97c1d1d34581": {
-    "expires_at": 1786482781.3248434,
-    "sent_at": "2026-08-04T21:13:01.324835",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +12.2%, Healthcare -2.5%"
+  "macro_MARKET_2026-08-12_6db1a7d4a75c": {
+    "expires_at": 1787149283.3605688,
+    "sent_at": "2026-08-12T14:21:23.360557",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release сегодня"
   },
   "volatility_SECTORS_2026-08-05_437ed34efc9f": {
     "expires_at": 1786556279.2694936,
@@ -302,5 +302,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +6.4%, Real Estate -2.1%"
+  },
+  "volatility_SECTORS_2026-08-12_bfcf6ddccd27": {
+    "expires_at": 1787149283.517097,
+    "sent_at": "2026-08-12T14:21:23.517087",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +4.6%, Real Estate -1.1%"
   }
 }
