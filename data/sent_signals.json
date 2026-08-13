@@ -1,28 +1,4 @@
 {
-  "macro_MARKET_2026-08-06_4a8c4e2305e6": {
-    "expires_at": 1786634044.6410506,
-    "sent_at": "2026-08-06T15:14:04.641040",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) завтра"
-  },
-  "macro_MARKET_2026-08-06_9e6ab22f8937": {
-    "expires_at": 1786634044.7911677,
-    "sent_at": "2026-08-06T15:14:04.791157",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release через 5 дн."
-  },
-  "macro_MARKET_2026-08-06_dabd3a14f5ad": {
-    "expires_at": 1786634044.922394,
-    "sent_at": "2026-08-06T15:14:04.922384",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 6 дн."
-  },
   "macro_MARKET_2026-08-07_2b13735934e0": {
     "expires_at": 1786716799.086514,
     "sent_at": "2026-08-07T14:13:19.086502",
@@ -86,14 +62,6 @@
     "signal_type": "macro",
     "ticker": "MARKET",
     "title": "PPI Release сегодня"
-  },
-  "volatility_SECTORS_2026-08-06_7da5eb4baadd": {
-    "expires_at": 1786634045.064108,
-    "sent_at": "2026-08-06T15:14:05.064098",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +6.5%, Energy -2.8%"
   },
   "volatility_SECTORS_2026-08-06_e97dc935ffc0": {
     "expires_at": 1786665578.6306016,
@@ -286,6 +254,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +4.5%, Real Estate -1.5%"
+  },
+  "volatility_SECTORS_2026-08-13_3cd92d01528d": {
+    "expires_at": 1787241583.9797966,
+    "sent_at": "2026-08-13T15:59:43.979790",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +6.1%, Consumer Discretionary -1.5%"
   },
   "volatility_SECTORS_2026-08-13_45ca634f6f09": {
     "expires_at": 1787235736.8731933,
