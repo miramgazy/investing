@@ -255,6 +255,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +4.5%, Real Estate -1.5%"
   },
+  "volatility_SECTORS_2026-08-13_0da7f58eeccb": {
+    "expires_at": 1787258590.8774936,
+    "sent_at": "2026-08-13T20:43:10.877483",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +6.2%, Consumer Discretionary -1.2%"
+  },
   "volatility_SECTORS_2026-08-13_3c6d01623a84": {
     "expires_at": 1787252594.6720102,
     "sent_at": "2026-08-13T19:03:14.672002",
