@@ -1,28 +1,4 @@
 {
-  "macro_MARKET_2026-08-07_2b13735934e0": {
-    "expires_at": 1786716799.086514,
-    "sent_at": "2026-08-07T14:13:19.086502",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) сегодня"
-  },
-  "macro_MARKET_2026-08-07_e27c07a9edce": {
-    "expires_at": 1786716799.275216,
-    "sent_at": "2026-08-07T14:13:19.275204",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release через 4 дн."
-  },
-  "macro_MARKET_2026-08-07_ff15e2880844": {
-    "expires_at": 1786716799.4781363,
-    "sent_at": "2026-08-07T14:13:19.478124",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 5 дн."
-  },
   "macro_MARKET_2026-08-10_027c61b14ef2": {
     "expires_at": 1786976425.0469584,
     "sent_at": "2026-08-10T14:20:25.046946",
@@ -63,14 +39,6 @@
     "ticker": "MARKET",
     "title": "PPI Release сегодня"
   },
-  "volatility_SECTORS_2026-08-06_e97dc935ffc0": {
-    "expires_at": 1786665578.6306016,
-    "sent_at": "2026-08-06T23:59:38.630592",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +5.7%, Energy -2.3%"
-  },
   "volatility_SECTORS_2026-08-07_3c981697826e": {
     "expires_at": 1786729819.7377841,
     "sent_at": "2026-08-07T17:50:19.737773",
@@ -86,14 +54,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +5.4%, Utilities -1.5%"
-  },
-  "volatility_SECTORS_2026-08-07_6488740cae4a": {
-    "expires_at": 1786716800.3090575,
-    "sent_at": "2026-08-07T14:13:20.309045",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +4.5%, Energy -2.3%"
   },
   "volatility_SECTORS_2026-08-07_6864dfb9e39a": {
     "expires_at": 1786737248.7043998,
@@ -294,5 +254,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +6.0%, Consumer Discretionary -1.4%"
+  },
+  "volatility_SECTORS_2026-08-14_4007b9f06e8f": {
+    "expires_at": 1787321759.57388,
+    "sent_at": "2026-08-14T14:15:59.573870",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +2.9%, Materials -1.2%"
   }
 }
