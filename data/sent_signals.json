@@ -1,68 +1,4 @@
 {
-  "volatility_SECTORS_2026-08-20_1d68d4e7a0a5": {
-    "expires_at": 1787862515.6707532,
-    "sent_at": "2026-08-20T20:28:35.670740",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +3.0%, Technology -3.6%"
-  },
-  "volatility_SECTORS_2026-08-20_51bdf6eaf635": {
-    "expires_at": 1787855957.2761686,
-    "sent_at": "2026-08-20T18:39:17.276156",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +3.6%, Technology -3.8%"
-  },
-  "volatility_SECTORS_2026-08-20_91a3e0b6c07a": {
-    "expires_at": 1787851762.6694934,
-    "sent_at": "2026-08-20T17:29:22.669484",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +3.8%, Technology -3.5%"
-  },
-  "volatility_SECTORS_2026-08-20_99fd60d74fce": {
-    "expires_at": 1787841391.6980023,
-    "sent_at": "2026-08-20T14:36:31.697992",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +4.2%, Technology -3.2%"
-  },
-  "volatility_SECTORS_2026-08-20_9a6017322188": {
-    "expires_at": 1787848536.0256896,
-    "sent_at": "2026-08-20T16:35:36.025678",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +4.1%, Technology -3.4%"
-  },
-  "volatility_SECTORS_2026-08-20_9a9d888e8c4f": {
-    "expires_at": 1787859089.5024984,
-    "sent_at": "2026-08-20T19:31:29.502486",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +3.3%, Industrials -3.6%"
-  },
-  "volatility_SECTORS_2026-08-20_bee5a00db94d": {
-    "expires_at": 1787838423.001297,
-    "sent_at": "2026-08-20T13:47:03.001284",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +4.2%, Technology -3.3%"
-  },
-  "volatility_SECTORS_2026-08-20_f152cd4e5707": {
-    "expires_at": 1787844820.592583,
-    "sent_at": "2026-08-20T15:33:40.592571",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +4.6%, Technology -3.5%"
-  },
   "volatility_SECTORS_2026-08-21_117f697deb49": {
     "expires_at": 1787931218.01146,
     "sent_at": "2026-08-21T15:33:38.011448",
@@ -254,5 +190,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Materials +3.1%, Energy -2.0%"
+  },
+  "volatility_SECTORS_2026-08-27_3de437894f75": {
+    "expires_at": 1788475849.9781463,
+    "sent_at": "2026-08-27T22:50:49.978135",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +2.9%, Energy -2.1%"
   }
 }
