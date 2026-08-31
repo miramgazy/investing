@@ -15,22 +15,6 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) через 4 дн."
   },
-  "volatility_SECTORS_2026-08-24_2d29887ec7e5": {
-    "expires_at": 1788208234.6632853,
-    "sent_at": "2026-08-24T20:30:34.663274",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +3.5%, Technology -3.0%"
-  },
-  "volatility_SECTORS_2026-08-24_ffad2467a1f6": {
-    "expires_at": 1788204586.8094254,
-    "sent_at": "2026-08-24T19:29:46.809416",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +3.2%, Technology -2.7%"
-  },
   "volatility_SECTORS_2026-08-25_c5b99e0a617f": {
     "expires_at": 1788287974.0774865,
     "sent_at": "2026-08-25T18:39:34.077474",
@@ -110,6 +94,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +3.1%, Consumer Staples -2.3%"
+  },
+  "volatility_SECTORS_2026-08-31_0045d53cdfa4": {
+    "expires_at": 1788824353.2583673,
+    "sent_at": "2026-08-31T23:39:13.258360",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.1%, Real Estate -2.8%"
   },
   "volatility_SECTORS_2026-08-31_64ef16d11aac": {
     "expires_at": 1788809111.7664812,
