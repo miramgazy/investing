@@ -7,21 +7,13 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) через 7 дн."
   },
-  "volatility_SECTORS_2026-08-24_1e8fac08544b": {
-    "expires_at": 1788190748.064053,
-    "sent_at": "2026-08-24T15:39:08.064043",
+  "macro_MARKET_2026-08-31_9e8e8d0866c3": {
+    "expires_at": 1788809111.6338644,
+    "sent_at": "2026-08-31T19:25:11.633853",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +3.4%, Technology -2.9%"
-  },
-  "volatility_SECTORS_2026-08-24_2011d178ac70": {
-    "expires_at": 1788201584.3788247,
-    "sent_at": "2026-08-24T18:39:44.378813",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +3.0%, Industrials -2.6%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) через 4 дн."
   },
   "volatility_SECTORS_2026-08-24_2d29887ec7e5": {
     "expires_at": 1788208234.6632853,
@@ -30,38 +22,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Materials +3.5%, Technology -3.0%"
-  },
-  "volatility_SECTORS_2026-08-24_73353939d542": {
-    "expires_at": 1788184684.5552292,
-    "sent_at": "2026-08-24T13:58:04.555220",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +4.3%, Technology -3.3%"
-  },
-  "volatility_SECTORS_2026-08-24_b05828fa602e": {
-    "expires_at": 1788187325.2424848,
-    "sent_at": "2026-08-24T14:42:05.242472",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +4.2%, Technology -2.9%"
-  },
-  "volatility_SECTORS_2026-08-24_b21c70d2ff0c": {
-    "expires_at": 1788197462.684588,
-    "sent_at": "2026-08-24T17:31:02.684575",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +3.0%, Technology -2.9%"
-  },
-  "volatility_SECTORS_2026-08-24_eea98047c0cf": {
-    "expires_at": 1788194249.6899517,
-    "sent_at": "2026-08-24T16:37:29.689941",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +3.2%, Industrials -2.7%"
   },
   "volatility_SECTORS_2026-08-24_ffad2467a1f6": {
     "expires_at": 1788204586.8094254,
@@ -150,5 +110,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +3.1%, Consumer Staples -2.3%"
+  },
+  "volatility_SECTORS_2026-08-31_64ef16d11aac": {
+    "expires_at": 1788809111.7664812,
+    "sent_at": "2026-08-31T19:25:11.766471",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +3.4%, Consumer Staples -2.8%"
   }
 }
