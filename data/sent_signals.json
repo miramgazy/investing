@@ -55,14 +55,6 @@
     "ticker": "MARKET",
     "title": "CPI Release через 6 дн."
   },
-  "volatility_SECTORS_2026-08-26_03489c912fcc": {
-    "expires_at": 1788375741.0229895,
-    "sent_at": "2026-08-26T19:02:21.022982",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +2.4%, Energy -2.0%"
-  },
   "volatility_SECTORS_2026-08-26_3930b89a07bc": {
     "expires_at": 1788389249.889275,
     "sent_at": "2026-08-26T22:47:29.889264",
@@ -118,6 +110,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +3.7%, Industrials -3.2%"
+  },
+  "volatility_SECTORS_2026-09-02_45678ce839e9": {
+    "expires_at": 1788986198.8802483,
+    "sent_at": "2026-09-02T20:36:38.880241",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +4.5%, Industrials -3.4%"
   },
   "volatility_SECTORS_2026-09-02_bf8fcfc9919d": {
     "expires_at": 1788973321.1065483,
