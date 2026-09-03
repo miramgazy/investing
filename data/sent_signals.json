@@ -150,5 +150,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +3.8%, Industrials -1.7%"
+  },
+  "volatility_SECTORS_2026-09-03_f0b16e87807a": {
+    "expires_at": 1789069309.5537663,
+    "sent_at": "2026-09-03T19:41:49.553756",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.4%, Industrials -1.6%"
   }
 }
