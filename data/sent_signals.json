@@ -55,13 +55,29 @@
     "ticker": "MARKET",
     "title": "CPI Release через 6 дн."
   },
-  "volatility_SECTORS_2026-08-26_3930b89a07bc": {
-    "expires_at": 1788389249.889275,
-    "sent_at": "2026-08-26T22:47:29.889264",
+  "macro_MARKET_2026-09-03_139611b556dc": {
+    "expires_at": 1789059445.7396803,
+    "sent_at": "2026-09-03T16:57:25.739671",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Materials +2.4%, Energy -2.1%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 6 дн."
+  },
+  "macro_MARKET_2026-09-03_9cbf973401ea": {
+    "expires_at": 1789059445.4903142,
+    "sent_at": "2026-09-03T16:57:25.490304",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release через 5 дн."
+  },
+  "macro_MARKET_2026-09-03_ca3ac17e9915": {
+    "expires_at": 1789059445.314813,
+    "sent_at": "2026-09-03T16:57:25.314801",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) завтра"
   },
   "volatility_SECTORS_2026-08-27_3de437894f75": {
     "expires_at": 1788475849.9781463,
@@ -126,5 +142,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +4.2%, Industrials -4.2%"
+  },
+  "volatility_SECTORS_2026-09-03_2d0bb238ef4c": {
+    "expires_at": 1789059445.917056,
+    "sent_at": "2026-09-03T16:57:25.917046",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.8%, Industrials -1.7%"
   }
 }
