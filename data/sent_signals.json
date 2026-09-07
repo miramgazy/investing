@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-08-28_68abc9902ec3": {
-    "expires_at": 1788562492.1658063,
-    "sent_at": "2026-08-28T22:54:52.165793",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) через 7 дн."
-  },
   "macro_MARKET_2026-08-31_9e8e8d0866c3": {
     "expires_at": 1788809111.6338644,
     "sent_at": "2026-08-31T19:25:11.633853",
@@ -103,13 +95,21 @@
     "ticker": "MARKET",
     "title": "PPI Release через 5 дн."
   },
-  "volatility_SECTORS_2026-08-28_0f56e663a224": {
-    "expires_at": 1788562492.3019814,
-    "sent_at": "2026-08-28T22:54:52.301971",
+  "macro_MARKET_2026-09-07_6ae2cac45c80": {
+    "expires_at": 1789409274.8660817,
+    "sent_at": "2026-09-07T18:07:54.866074",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release завтра"
+  },
+  "macro_MARKET_2026-09-07_b188a957faf3": {
+    "expires_at": 1789409274.9864097,
+    "sent_at": "2026-09-07T18:07:54.986403",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +3.1%, Consumer Staples -2.3%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 2 дн."
   },
   "volatility_SECTORS_2026-08-31_0045d53cdfa4": {
     "expires_at": 1788824353.2583673,
@@ -186,6 +186,14 @@
   "volatility_SECTORS_2026-09-04_37f47e254246": {
     "expires_at": 1789164607.8743153,
     "sent_at": "2026-09-04T22:10:07.874306",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Utilities +2.0%, Consumer Discretionary -1.4%"
+  },
+  "volatility_SECTORS_2026-09-07_2ec33cf542ce": {
+    "expires_at": 1789409275.1035748,
+    "sent_at": "2026-09-07T18:07:55.103568",
     "severity": "low",
     "signal_type": "volatility",
     "ticker": "SECTORS",
