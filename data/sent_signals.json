@@ -1,28 +1,4 @@
 {
-  "macro_MARKET_2026-09-02_77dd880b34d7": {
-    "expires_at": 1788973320.9777486,
-    "sent_at": "2026-09-02T17:02:00.977736",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 7 дн."
-  },
-  "macro_MARKET_2026-09-02_c7c79d7570af": {
-    "expires_at": 1788973320.7224355,
-    "sent_at": "2026-09-02T17:02:00.722423",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) через 2 дн."
-  },
-  "macro_MARKET_2026-09-02_ff7ae01f141d": {
-    "expires_at": 1788973320.8534565,
-    "sent_at": "2026-09-02T17:02:00.853445",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release через 6 дн."
-  },
   "macro_MARKET_2026-09-03_139611b556dc": {
     "expires_at": 1789059445.7396803,
     "sent_at": "2026-09-03T16:57:25.739671",
@@ -103,6 +79,22 @@
     "ticker": "MARKET",
     "title": "CPI Release сегодня"
   },
+  "macro_MARKET_2026-09-09_a2b146915e71": {
+    "expires_at": 1789578204.3700304,
+    "sent_at": "2026-09-09T17:03:24.370021",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision через 7 дн."
+  },
+  "macro_MARKET_2026-09-09_de75203f7a6b": {
+    "expires_at": 1789578204.1876607,
+    "sent_at": "2026-09-09T17:03:24.187651",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release сегодня"
+  },
   "volatility_SECTORS_2026-09-02_45678ce839e9": {
     "expires_at": 1788986198.8802483,
     "sent_at": "2026-09-02T20:36:38.880241",
@@ -110,14 +102,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +4.5%, Industrials -3.4%"
-  },
-  "volatility_SECTORS_2026-09-02_bf8fcfc9919d": {
-    "expires_at": 1788973321.1065483,
-    "sent_at": "2026-09-02T17:02:01.106537",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +4.2%, Industrials -4.2%"
   },
   "volatility_SECTORS_2026-09-03_2d0bb238ef4c": {
     "expires_at": 1789059445.917056,
@@ -174,5 +158,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +2.6%, Healthcare -2.3%"
+  },
+  "volatility_SECTORS_2026-09-09_14c384c5cbc1": {
+    "expires_at": 1789578204.5494153,
+    "sent_at": "2026-09-09T17:03:24.549406",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +2.5%, Healthcare -3.7%"
   }
 }
