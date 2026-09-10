@@ -95,13 +95,13 @@
     "ticker": "MARKET",
     "title": "PPI Release сегодня"
   },
-  "volatility_SECTORS_2026-09-02_45678ce839e9": {
-    "expires_at": 1788986198.8802483,
-    "sent_at": "2026-09-02T20:36:38.880241",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +4.5%, Industrials -3.4%"
+  "macro_MARKET_2026-09-10_3b42cffe3762": {
+    "expires_at": 1789664117.328839,
+    "sent_at": "2026-09-10T16:55:17.328826",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision через 6 дн."
   },
   "volatility_SECTORS_2026-09-03_2d0bb238ef4c": {
     "expires_at": 1789059445.917056,
@@ -174,5 +174,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +2.3%, Healthcare -3.7%"
+  },
+  "volatility_SECTORS_2026-09-10_17a3b05a0b0e": {
+    "expires_at": 1789664117.5530574,
+    "sent_at": "2026-09-10T16:55:17.553050",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +0.8%, Healthcare -4.3%"
   }
 }
