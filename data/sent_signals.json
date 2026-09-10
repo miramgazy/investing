@@ -1,28 +1,4 @@
 {
-  "macro_MARKET_2026-09-03_139611b556dc": {
-    "expires_at": 1789059445.7396803,
-    "sent_at": "2026-09-03T16:57:25.739671",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 6 дн."
-  },
-  "macro_MARKET_2026-09-03_9cbf973401ea": {
-    "expires_at": 1789059445.4903142,
-    "sent_at": "2026-09-03T16:57:25.490304",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release через 5 дн."
-  },
-  "macro_MARKET_2026-09-03_ca3ac17e9915": {
-    "expires_at": 1789059445.314813,
-    "sent_at": "2026-09-03T16:57:25.314801",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) завтра"
-  },
   "macro_MARKET_2026-09-04_8a057a4b0349": {
     "expires_at": 1789145137.877267,
     "sent_at": "2026-09-04T16:45:37.877262",
@@ -103,14 +79,6 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 6 дн."
   },
-  "volatility_SECTORS_2026-09-03_2d0bb238ef4c": {
-    "expires_at": 1789059445.917056,
-    "sent_at": "2026-09-03T16:57:25.917046",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +3.8%, Industrials -1.7%"
-  },
   "volatility_SECTORS_2026-09-03_a81bc14ab67d": {
     "expires_at": 1789078871.9219954,
     "sent_at": "2026-09-03T22:21:11.921985",
@@ -182,5 +150,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +0.8%, Healthcare -4.3%"
+  },
+  "volatility_SECTORS_2026-09-10_3a855bcf6052": {
+    "expires_at": 1789673309.7412312,
+    "sent_at": "2026-09-10T19:28:29.741221",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +0.7%, Healthcare -4.3%"
   }
 }
