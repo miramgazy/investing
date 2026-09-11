@@ -1,28 +1,4 @@
 {
-  "macro_MARKET_2026-09-04_8a057a4b0349": {
-    "expires_at": 1789145137.877267,
-    "sent_at": "2026-09-04T16:45:37.877262",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "CPI Release через 4 дн."
-  },
-  "macro_MARKET_2026-09-04_8a29757e4cab": {
-    "expires_at": 1789145137.7524283,
-    "sent_at": "2026-09-04T16:45:37.752422",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) сегодня"
-  },
-  "macro_MARKET_2026-09-04_97c6504d900b": {
-    "expires_at": 1789145138.0334623,
-    "sent_at": "2026-09-04T16:45:38.033456",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release через 5 дн."
-  },
   "macro_MARKET_2026-09-07_6ae2cac45c80": {
     "expires_at": 1789409274.8660817,
     "sent_at": "2026-09-07T18:07:54.866074",
@@ -79,13 +55,13 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 6 дн."
   },
-  "volatility_SECTORS_2026-09-03_a81bc14ab67d": {
-    "expires_at": 1789078871.9219954,
-    "sent_at": "2026-09-03T22:21:11.921985",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +3.1%, Industrials -1.5%"
+  "macro_MARKET_2026-09-11_fa57438010d1": {
+    "expires_at": 1789750579.0160894,
+    "sent_at": "2026-09-11T16:56:19.016079",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision через 5 дн."
   },
   "volatility_SECTORS_2026-09-04_37f47e254246": {
     "expires_at": 1789164607.8743153,
@@ -158,5 +134,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +0.7%, Healthcare -4.3%"
+  },
+  "volatility_SECTORS_2026-09-11_0ed830f5c06c": {
+    "expires_at": 1789750579.1976268,
+    "sent_at": "2026-09-11T16:56:19.197617",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +1.7%, Healthcare -3.4%"
   }
 }
