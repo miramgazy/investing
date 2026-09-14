@@ -135,6 +135,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +1.7%, Healthcare -3.4%"
   },
+  "volatility_SECTORS_2026-09-14_afdbc20adffe": {
+    "expires_at": 1790029058.323838,
+    "sent_at": "2026-09-14T22:17:38.323828",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Communications +3.2%, Utilities -3.8%"
+  },
   "volatility_SECTORS_2026-09-14_bc6b07f62cf1": {
     "expires_at": 1790014944.7898548,
     "sent_at": "2026-09-14T18:22:24.789844",
