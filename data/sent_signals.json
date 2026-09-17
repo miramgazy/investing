@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-09-10_3b42cffe3762": {
-    "expires_at": 1789664117.328839,
-    "sent_at": "2026-09-10T16:55:17.328826",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision через 6 дн."
-  },
   "macro_MARKET_2026-09-11_fa57438010d1": {
     "expires_at": 1789750579.0160894,
     "sent_at": "2026-09-11T16:56:19.016079",
@@ -46,14 +38,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +0.5%, Healthcare -4.4%"
-  },
-  "volatility_SECTORS_2026-09-10_17a3b05a0b0e": {
-    "expires_at": 1789664117.5530574,
-    "sent_at": "2026-09-10T16:55:17.553050",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Energy +0.8%, Healthcare -4.3%"
   },
   "volatility_SECTORS_2026-09-10_3a855bcf6052": {
     "expires_at": 1789673309.7412312,
@@ -134,5 +118,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Communications +2.3%, Utilities -2.5%"
+  },
+  "volatility_SECTORS_2026-09-17_5693ceb51bcd": {
+    "expires_at": 1790271051.7262096,
+    "sent_at": "2026-09-17T17:30:51.726203",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +1.9%, Financials -2.2%"
   }
 }
