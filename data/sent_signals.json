@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-09-15_3ca54f22387d": {
-    "expires_at": 1790098213.4179585,
-    "sent_at": "2026-09-15T17:30:13.417949",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision завтра"
-  },
   "macro_MARKET_2026-09-16_5383608259dc": {
     "expires_at": 1790184620.2704678,
     "sent_at": "2026-09-16T17:30:20.270458",
@@ -22,14 +14,6 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Communications +2.9%, Utilities -3.8%"
-  },
-  "volatility_SECTORS_2026-09-15_c227ae1655db": {
-    "expires_at": 1790098213.5529578,
-    "sent_at": "2026-09-15T17:30:13.552948",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Communications +3.0%, Utilities -3.5%"
   },
   "volatility_SECTORS_2026-09-16_6761fbe6a59e": {
     "expires_at": 1790197035.7567127,
@@ -102,5 +86,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +5.8%, Energy -4.5%"
+  },
+  "volatility_SECTORS_2026-09-22_37137d700d83": {
+    "expires_at": 1790703163.8773208,
+    "sent_at": "2026-09-22T17:32:43.877307",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +6.3%, Energy -2.4%"
   }
 }
