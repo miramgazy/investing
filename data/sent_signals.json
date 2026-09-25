@@ -15,14 +15,6 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +2.9%, Communications -3.7%"
   },
-  "volatility_SECTORS_2026-09-18_c739475649c6": {
-    "expires_at": 1790364611.0293128,
-    "sent_at": "2026-09-18T19:30:11.029301",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +2.3%, Communications -3.3%"
-  },
   "volatility_SECTORS_2026-09-21_b4610fbca0e1": {
     "expires_at": 1790634501.677714,
     "sent_at": "2026-09-21T22:28:21.677704",
@@ -94,5 +86,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +0.9%, Utilities -3.3%"
+  },
+  "volatility_SECTORS_2026-09-25_c85ad671b957": {
+    "expires_at": 1790975437.366953,
+    "sent_at": "2026-09-25T21:10:37.366942",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +1.0%, Utilities -2.8%"
   }
 }
