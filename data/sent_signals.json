@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-09-25_44fc3e10bff0": {
-    "expires_at": 1790963294.6416624,
-    "sent_at": "2026-09-25T17:48:14.641652",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) через 7 дн."
-  },
   "macro_MARKET_2026-09-28_ebb40be60f0f": {
     "expires_at": 1791230458.0204852,
     "sent_at": "2026-09-28T20:00:58.020476",
@@ -39,13 +31,13 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) завтра"
   },
-  "volatility_SECTORS_2026-09-25_395868cb89a4": {
-    "expires_at": 1790963294.8237514,
-    "sent_at": "2026-09-25T17:48:14.823742",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +0.9%, Utilities -3.3%"
+  "macro_MARKET_2026-10-02_651e21b80445": {
+    "expires_at": 1791569680.6411722,
+    "sent_at": "2026-10-02T18:14:40.641161",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) сегодня"
   },
   "volatility_SECTORS_2026-09-25_c85ad671b957": {
     "expires_at": 1790975437.366953,
@@ -110,5 +102,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +0.9%, Financials -2.8%"
+  },
+  "volatility_SECTORS_2026-10-02_1ecb13b2f07d": {
+    "expires_at": 1791569680.8032691,
+    "sent_at": "2026-10-02T18:14:40.803257",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +2.7%, Healthcare -3.2%"
   }
 }
