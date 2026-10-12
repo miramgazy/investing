@@ -55,13 +55,21 @@
     "ticker": "MARKET",
     "title": "CPI Release через 4 дн."
   },
-  "volatility_SECTORS_2026-10-05_56764a2cab66": {
-    "expires_at": 1791839394.0674396,
-    "sent_at": "2026-10-05T21:09:54.067427",
+  "macro_MARKET_2026-10-12_c4404442337a": {
+    "expires_at": 1792445726.460765,
+    "sent_at": "2026-10-12T21:35:26.460761",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release завтра"
+  },
+  "macro_MARKET_2026-10-12_d5159b55bbd1": {
+    "expires_at": 1792445726.5985725,
+    "sent_at": "2026-10-12T21:35:26.598569",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +3.3%, Healthcare -2.0%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 2 дн."
   },
   "volatility_SECTORS_2026-10-06_8cfb61115109": {
     "expires_at": 1791932128.0911298,
@@ -126,5 +134,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +3.6%, Communications -1.1%"
+  },
+  "volatility_SECTORS_2026-10-12_d5c76232f404": {
+    "expires_at": 1792445726.7495344,
+    "sent_at": "2026-10-12T21:35:26.749531",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.5%, Technology -2.8%"
   }
 }
