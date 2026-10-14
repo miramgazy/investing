@@ -79,6 +79,14 @@
     "ticker": "MARKET",
     "title": "PPI Release завтра"
   },
+  "macro_MARKET_2026-10-14_065206128501": {
+    "expires_at": 1792604954.485584,
+    "sent_at": "2026-10-14T17:49:14.485573",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release сегодня"
+  },
   "volatility_SECTORS_2026-10-07_86aaed7baf1d": {
     "expires_at": 1792005258.9358177,
     "sent_at": "2026-10-07T19:14:18.935809",
@@ -150,5 +158,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +6.1%, Technology -2.7%"
+  },
+  "volatility_SECTORS_2026-10-14_479ca8247652": {
+    "expires_at": 1792604954.6238148,
+    "sent_at": "2026-10-14T17:49:14.623775",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +3.5%, Technology -3.6%"
   }
 }
