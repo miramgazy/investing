@@ -39,14 +39,6 @@
     "ticker": "MARKET",
     "title": "PPI Release сегодня"
   },
-  "volatility_SECTORS_2026-10-09_f9bf76e4810c": {
-    "expires_at": 1792191833.1256044,
-    "sent_at": "2026-10-09T23:03:53.125595",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Utilities +3.6%, Communications -1.1%"
-  },
   "volatility_SECTORS_2026-10-12_d5c76232f404": {
     "expires_at": 1792445726.7495344,
     "sent_at": "2026-10-12T21:35:26.749531",
@@ -118,6 +110,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Staples +3.4%, Technology -6.0%"
+  },
+  "volatility_SECTORS_2026-10-19_aed7bc3be5fe": {
+    "expires_at": 1793041443.2388787,
+    "sent_at": "2026-10-19T19:04:03.238869",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Staples +3.8%, Technology -5.1%"
   },
   "volatility_^VIX_2026-10-16_f180a9de2b42": {
     "expires_at": 1792787742.5831916,
