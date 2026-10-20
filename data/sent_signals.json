@@ -103,6 +103,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Staples +3.6%, Technology -5.3%"
   },
+  "volatility_SECTORS_2026-10-20_a087302dce7d": {
+    "expires_at": 1793123306.574869,
+    "sent_at": "2026-10-20T17:48:26.574859",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Discretionary +3.6%, Technology -2.3%"
+  },
   "volatility_^VIX_2026-10-16_f180a9de2b42": {
     "expires_at": 1792787742.5831916,
     "sent_at": "2026-10-16T20:35:42.583183",
