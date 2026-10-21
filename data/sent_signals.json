@@ -87,6 +87,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Discretionary +2.3%, Communications -2.7%"
   },
+  "volatility_SECTORS_2026-10-21_c48817996583": {
+    "expires_at": 1793222393.1075947,
+    "sent_at": "2026-10-21T21:19:53.107584",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +2.4%, Communications -3.1%"
+  },
   "volatility_^VIX_2026-10-16_f180a9de2b42": {
     "expires_at": 1792787742.5831916,
     "sent_at": "2026-10-16T20:35:42.583183",
