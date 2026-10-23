@@ -23,14 +23,6 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 5 дн."
   },
-  "volatility_SECTORS_2026-10-16_a1f946f3ef6d": {
-    "expires_at": 1792787742.7001634,
-    "sent_at": "2026-10-16T20:35:42.700156",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Staples +3.8%, Technology -6.6%"
-  },
   "volatility_SECTORS_2026-10-19_aed7bc3be5fe": {
     "expires_at": 1793041443.2388787,
     "sent_at": "2026-10-19T19:04:03.238869",
@@ -103,12 +95,12 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +2.6%, Communications -3.5%"
   },
-  "volatility_^VIX_2026-10-16_f180a9de2b42": {
-    "expires_at": 1792787742.5831916,
-    "sent_at": "2026-10-16T20:35:42.583183",
-    "severity": "medium",
+  "volatility_SECTORS_2026-10-23_7f18c475d40a": {
+    "expires_at": 1793394262.563218,
+    "sent_at": "2026-10-23T21:04:22.563208",
+    "severity": "low",
     "signal_type": "volatility",
-    "ticker": "^VIX",
-    "title": "VIX = 20.0 (порог 25)"
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Utilities +2.9%, Communications -4.2%"
   }
 }
