@@ -23,6 +23,14 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 5 дн."
   },
+  "macro_MARKET_2026-10-26_4e29683fb02e": {
+    "expires_at": 1793646196.3872912,
+    "sent_at": "2026-10-26T19:03:16.387280",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision через 2 дн."
+  },
   "volatility_SECTORS_2026-10-19_aed7bc3be5fe": {
     "expires_at": 1793041443.2388787,
     "sent_at": "2026-10-19T19:04:03.238869",
@@ -102,5 +110,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +2.9%, Communications -4.2%"
+  },
+  "volatility_SECTORS_2026-10-26_cfc1f7695962": {
+    "expires_at": 1793646196.5282536,
+    "sent_at": "2026-10-26T19:03:16.528243",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Energy +2.5%, Communications -6.0%"
   }
 }
