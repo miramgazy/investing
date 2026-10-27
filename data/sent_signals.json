@@ -31,13 +31,13 @@
     "ticker": "MARKET",
     "title": "FOMC Decision через 2 дн."
   },
-  "volatility_SECTORS_2026-10-20_a087302dce7d": {
-    "expires_at": 1793123306.574869,
-    "sent_at": "2026-10-20T17:48:26.574859",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +3.6%, Technology -2.3%"
+  "macro_MARKET_2026-10-27_ce6cf5b20efd": {
+    "expires_at": 1793730884.799875,
+    "sent_at": "2026-10-27T18:34:44.799865",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision завтра"
   },
   "volatility_SECTORS_2026-10-20_f12cc7326b0d": {
     "expires_at": 1793135992.2346065,
@@ -110,5 +110,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Energy +2.5%, Communications -6.0%"
+  },
+  "volatility_SECTORS_2026-10-27_5870f5dc0383": {
+    "expires_at": 1793730884.9845138,
+    "sent_at": "2026-10-27T18:34:44.984499",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Utilities +1.6%, Communications -4.9%"
   }
 }
