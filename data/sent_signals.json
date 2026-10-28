@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-10-21_05cbda1f9622": {
-    "expires_at": 1793210166.6681998,
-    "sent_at": "2026-10-21T17:56:06.668191",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision через 7 дн."
-  },
   "macro_MARKET_2026-10-22_d8f31bb6fd90": {
     "expires_at": 1793296352.6308906,
     "sent_at": "2026-10-22T17:52:32.630884",
@@ -39,13 +31,13 @@
     "ticker": "MARKET",
     "title": "FOMC Decision завтра"
   },
-  "volatility_SECTORS_2026-10-21_8a7b6b82e1b7": {
-    "expires_at": 1793210166.837569,
-    "sent_at": "2026-10-21T17:56:06.837560",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Discretionary +2.3%, Communications -2.7%"
+  "macro_MARKET_2026-10-28_e4be45a3a92a": {
+    "expires_at": 1793817658.447715,
+    "sent_at": "2026-10-28T18:40:58.447706",
+    "severity": "high",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "FOMC Decision сегодня"
   },
   "volatility_SECTORS_2026-10-21_c48817996583": {
     "expires_at": 1793222393.1075947,
@@ -118,5 +110,13 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Utilities +2.0%, Communications -4.9%"
+  },
+  "volatility_SECTORS_2026-10-28_803c573e1594": {
+    "expires_at": 1793817658.6598864,
+    "sent_at": "2026-10-28T18:40:58.659877",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Technology +4.7%, Communications -4.1%"
   }
 }
