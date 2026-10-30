@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-10-23_a1b62b56b282": {
-    "expires_at": 1793382299.388295,
-    "sent_at": "2026-10-23T17:44:59.388285",
-    "severity": "medium",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision через 5 дн."
-  },
   "macro_MARKET_2026-10-26_4e29683fb02e": {
     "expires_at": 1793646196.3872912,
     "sent_at": "2026-10-26T19:03:16.387280",
@@ -31,13 +23,13 @@
     "ticker": "MARKET",
     "title": "FOMC Decision сегодня"
   },
-  "volatility_SECTORS_2026-10-23_011868188f3c": {
-    "expires_at": 1793382299.640687,
-    "sent_at": "2026-10-23T17:44:59.640677",
+  "macro_MARKET_2026-10-30_9d861b29cb01": {
+    "expires_at": 1793989622.8639657,
+    "sent_at": "2026-10-30T18:27:02.863961",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Utilities +2.6%, Communications -3.5%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) через 7 дн."
   },
   "volatility_SECTORS_2026-10-23_7f18c475d40a": {
     "expires_at": 1793394262.563218,
@@ -110,5 +102,21 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Industrials +2.8%, Communications -4.1%"
+  },
+  "volatility_SECTORS_2026-10-30_1e6b581edd83": {
+    "expires_at": 1793989623.2311208,
+    "sent_at": "2026-10-30T18:27:03.231118",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Healthcare +3.4%, Technology -4.7%"
+  },
+  "volatility_^VIX_2026-10-30_bb11b4872a0b": {
+    "expires_at": 1793989623.052127,
+    "sent_at": "2026-10-30T18:27:03.052123",
+    "severity": "medium",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 22.1 (порог 25)"
   }
 }
