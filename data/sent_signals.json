@@ -39,13 +39,29 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) через 3 дн."
   },
-  "volatility_SECTORS_2026-10-27_a9532bb50e09": {
-    "expires_at": 1793746367.4505699,
-    "sent_at": "2026-10-27T22:52:47.450560",
+  "macro_MARKET_2026-11-04_262dbcc56889": {
+    "expires_at": 1794357167.0707889,
+    "sent_at": "2026-11-04T00:32:47.070782",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Utilities +2.0%, Communications -4.9%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "Non-Farm Payrolls (NFP) через 2 дн."
+  },
+  "macro_MARKET_2026-11-04_793bedb65216": {
+    "expires_at": 1794357167.289588,
+    "sent_at": "2026-11-04T00:32:47.289583",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 7 дн."
+  },
+  "macro_MARKET_2026-11-04_bd9d597a6da0": {
+    "expires_at": 1794357167.1790247,
+    "sent_at": "2026-11-04T00:32:47.179017",
+    "severity": "low",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release через 6 дн."
   },
   "volatility_SECTORS_2026-10-28_32e480825afa": {
     "expires_at": 1793833075.6276968,
@@ -110,6 +126,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Real Estate +3.4%, Technology -7.9%"
+  },
+  "volatility_SECTORS_2026-11-04_07ad07a2e05e": {
+    "expires_at": 1794357167.3997388,
+    "sent_at": "2026-11-04T00:32:47.399733",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Real Estate +3.7%, Technology -7.6%"
   },
   "volatility_^VIX_2026-10-30_bb11b4872a0b": {
     "expires_at": 1793989623.052127,
