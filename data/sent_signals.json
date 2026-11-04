@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-10-28_e4be45a3a92a": {
-    "expires_at": 1793817658.447715,
-    "sent_at": "2026-10-28T18:40:58.447706",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "FOMC Decision сегодня"
-  },
   "macro_MARKET_2026-10-30_9d861b29cb01": {
     "expires_at": 1793989622.8639657,
     "sent_at": "2026-10-30T18:27:02.863961",
@@ -71,14 +63,6 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Technology +4.7%, Communications -4.0%"
   },
-  "volatility_SECTORS_2026-10-28_803c573e1594": {
-    "expires_at": 1793817658.6598864,
-    "sent_at": "2026-10-28T18:40:58.659877",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +4.7%, Communications -4.1%"
-  },
   "volatility_SECTORS_2026-10-29_073041a371de": {
     "expires_at": 1793920031.9818335,
     "sent_at": "2026-10-29T23:07:11.981824",
@@ -135,6 +119,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Real Estate +3.7%, Technology -7.6%"
   },
+  "volatility_SECTORS_2026-11-04_2d31fc51c346": {
+    "expires_at": 1794428309.507058,
+    "sent_at": "2026-11-04T20:18:29.507048",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Discretionary +5.3%, Energy -7.9%"
+  },
   "volatility_^VIX_2026-10-30_bb11b4872a0b": {
     "expires_at": 1793989623.052127,
     "sent_at": "2026-10-30T18:27:03.052123",
@@ -142,5 +134,13 @@
     "signal_type": "volatility",
     "ticker": "^VIX",
     "title": "VIX = 22.1 (порог 25)"
+  },
+  "volatility_^VIX_2026-11-04_a1c245a528dc": {
+    "expires_at": 1794428309.3361483,
+    "sent_at": "2026-11-04T20:18:29.336138",
+    "severity": "medium",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 16.8 (порог 25)"
   }
 }
