@@ -95,14 +95,6 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) сегодня"
   },
-  "volatility_SECTORS_2026-10-30_e7983e03c58f": {
-    "expires_at": 1794005355.0772216,
-    "sent_at": "2026-10-30T22:49:15.077210",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Healthcare +3.1%, Communications -3.8%"
-  },
   "volatility_SECTORS_2026-11-02_c43b9cedcb39": {
     "expires_at": 1794262281.4032524,
     "sent_at": "2026-11-02T22:11:21.403240",
@@ -143,6 +135,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Communications +4.3%, Energy -10.8%"
   },
+  "volatility_SECTORS_2026-11-06_418bbbed53bd": {
+    "expires_at": 1794614333.6869519,
+    "sent_at": "2026-11-06T23:58:53.686942",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Communications +4.5%, Energy -8.4%"
+  },
   "volatility_SECTORS_2026-11-06_58924e8bfa6d": {
     "expires_at": 1794599542.9765086,
     "sent_at": "2026-11-06T19:52:22.976499",
@@ -166,5 +166,13 @@
     "signal_type": "volatility",
     "ticker": "^VIX",
     "title": "VIX = 26.0 (порог 25)"
+  },
+  "volatility_^VIX_2026-11-06_8801e6db82b0": {
+    "expires_at": 1794614333.5533974,
+    "sent_at": "2026-11-06T23:58:53.553384",
+    "severity": "high",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 25.6 (порог 25)"
   }
 }
