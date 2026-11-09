@@ -1,12 +1,4 @@
 {
-  "macro_MARKET_2026-11-02_605d6cc655e2": {
-    "expires_at": 1794262281.2513006,
-    "sent_at": "2026-11-02T22:11:21.251289",
-    "severity": "low",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "Non-Farm Payrolls (NFP) через 4 дн."
-  },
   "macro_MARKET_2026-11-03_877898f47aaf": {
     "expires_at": 1794340741.3436568,
     "sent_at": "2026-11-03T19:59:01.343645",
@@ -95,13 +87,21 @@
     "ticker": "MARKET",
     "title": "Non-Farm Payrolls (NFP) сегодня"
   },
-  "volatility_SECTORS_2026-11-02_c43b9cedcb39": {
-    "expires_at": 1794262281.4032524,
-    "sent_at": "2026-11-02T22:11:21.403240",
+  "macro_MARKET_2026-11-09_6a1781411db7": {
+    "expires_at": 1794869620.9826765,
+    "sent_at": "2026-11-09T22:53:40.982666",
+    "severity": "medium",
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "CPI Release завтра"
+  },
+  "macro_MARKET_2026-11-09_e0f734d16d1f": {
+    "expires_at": 1794869621.2135348,
+    "sent_at": "2026-11-09T22:53:41.213521",
     "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Staples +4.2%, Technology -8.1%"
+    "signal_type": "macro",
+    "ticker": "MARKET",
+    "title": "PPI Release через 2 дн."
   },
   "volatility_SECTORS_2026-11-03_37086286a641": {
     "expires_at": 1794340741.5273545,
@@ -151,6 +151,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Communications +5.1%, Energy -8.0%"
   },
+  "volatility_SECTORS_2026-11-09_acb175914117": {
+    "expires_at": 1794869621.6424894,
+    "sent_at": "2026-11-09T22:53:41.642478",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Communications +5.8%, Energy -7.1%"
+  },
   "volatility_^VIX_2026-11-04_a1c245a528dc": {
     "expires_at": 1794428309.3361483,
     "sent_at": "2026-11-04T20:18:29.336138",
@@ -174,5 +182,13 @@
     "signal_type": "volatility",
     "ticker": "^VIX",
     "title": "VIX = 25.6 (порог 25)"
+  },
+  "volatility_^VIX_2026-11-09_44666e3fc353": {
+    "expires_at": 1794869621.4114776,
+    "sent_at": "2026-11-09T22:53:41.411465",
+    "severity": "medium",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 19.9 (порог 25)"
   }
 }
