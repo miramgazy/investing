@@ -1,20 +1,4 @@
 {
-  "macro_MARKET_2026-11-11_ebdf0283a9df": {
-    "expires_at": 1795032125.9837906,
-    "sent_at": "2026-11-11T20:02:05.983781",
-    "severity": "high",
-    "signal_type": "macro",
-    "ticker": "MARKET",
-    "title": "PPI Release сегодня"
-  },
-  "volatility_SECTORS_2026-11-11_a2e9c27f7f97": {
-    "expires_at": 1795032126.127028,
-    "sent_at": "2026-11-11T20:02:06.127019",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Technology +7.9%, Consumer Staples -0.1%"
-  },
   "volatility_SECTORS_2026-11-12_334c93508297": {
     "expires_at": 1795120824.3412132,
     "sent_at": "2026-11-12T20:40:24.341204",
@@ -46,6 +30,14 @@
     "signal_type": "volatility",
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Staples +0.0%, Technology -6.4%"
+  },
+  "volatility_SECTORS_2026-11-18_58b148aef08d": {
+    "expires_at": 1795640846.1466491,
+    "sent_at": "2026-11-18T21:07:26.146638",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Consumer Staples +0.1%, Technology -5.7%"
   },
   "volatility_^VIX_2026-11-16_6b01a0a6debf": {
     "expires_at": 1795473960.7789173,
