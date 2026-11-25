@@ -1,12 +1,4 @@
 {
-  "volatility_SECTORS_2026-11-18_58b148aef08d": {
-    "expires_at": 1795640846.1466491,
-    "sent_at": "2026-11-18T21:07:26.146638",
-    "severity": "low",
-    "signal_type": "volatility",
-    "ticker": "SECTORS",
-    "title": "Sector rotation: Consumer Staples +0.1%, Technology -5.7%"
-  },
   "volatility_SECTORS_2026-11-19_ddb4fa411d9a": {
     "expires_at": 1795727540.6446157,
     "sent_at": "2026-11-19T21:12:20.644604",
@@ -39,6 +31,14 @@
     "ticker": "SECTORS",
     "title": "Sector rotation: Consumer Discretionary +-0.1%, Energy -5.5%"
   },
+  "volatility_SECTORS_2026-11-25_97c93eeb55d3": {
+    "expires_at": 1796249398.3439174,
+    "sent_at": "2026-11-25T22:09:58.343908",
+    "severity": "low",
+    "signal_type": "volatility",
+    "ticker": "SECTORS",
+    "title": "Sector rotation: Materials +3.6%, Technology -3.0%"
+  },
   "volatility_^VIX_2026-11-19_399be53898e6": {
     "expires_at": 1795727540.5088203,
     "sent_at": "2026-11-19T21:12:20.508807",
@@ -70,5 +70,13 @@
     "signal_type": "volatility",
     "ticker": "^VIX",
     "title": "VIX = 26.4 (порог 25)"
+  },
+  "volatility_^VIX_2026-11-25_d54d46a014c7": {
+    "expires_at": 1796249398.1989033,
+    "sent_at": "2026-11-25T22:09:58.198895",
+    "severity": "high",
+    "signal_type": "volatility",
+    "ticker": "^VIX",
+    "title": "VIX = 28.3 (порог 25)"
   }
 }
